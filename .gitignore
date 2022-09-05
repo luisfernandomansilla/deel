@@ -59,6 +59,6 @@ jspm_packages/
 
 # IntelliJ metadata
 .DS_Store
-.idea
+.idea/*
 
 database.sqlite3
